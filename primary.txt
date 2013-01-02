@@ -2,8 +2,3 @@ this is my first file to my project
 
 it comes before all other files
 
-<<<<<<< HEAD
-some more changes
-=======
-and some more text
->>>>>>> seo_title
